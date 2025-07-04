@@ -1,25 +1,36 @@
-# expensetracker
+# 📊 Hisab-Kitab
 
-A new Flutter project.
+**Hisab-Kitab** is a simple and clean expense tracker mobile app built with **Flutter**. It allows users to track their income and expenses, visualize spending patterns through charts, and maintain a clear financial history.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📥 Add Income and Expenses
+- 🧾 View Recent Transactions
+- 📊 Pie Chart Dashboard for Income vs Expenses
+- 🧮 Total Balance Calculation
+- 💾 Local Storage using Shared Preferences
+- 🗂 Categorized View: Income / Expense Tabs
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
 
+- **Flutter** (cross-platform UI toolkit)
+- **Dart** (language)
+- **Shared Preferences** for local data storage
+- **FL Chart** for pie chart visualizations
 
-
-
-References:
-
- Divider(LogIN): https://stackoverflow.com/questions/54058228/horizontal-divider-with-text-in-the-middle-in-flutter
- Apple and Google Icons: https://www.youtube.com/watch?v=1U8_Mq1QdX4
  
+## Demo Video
+
+<p>Comming Soon</p>
+
+
+
+
+
+---
+  *By Nikhil*
+---
